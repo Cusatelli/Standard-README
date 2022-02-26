@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/39692033?v=4" alt="Logo" width="100" height="100">
+  <img src="/resources/Logo_Round.png" alt="Logo" width="250" height="250">
   <h3 align="center">Standard-README</h3>
   <p align="center">
     My personal standard README template.

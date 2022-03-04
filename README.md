@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 <div align="center">
   <a href="#">
-    <img src="/resources/Information.png" alt="Information" height="200"/>
+    <img src="/resources/Information.png" alt="Information" width="50%"/>
   </a>
 </div>
 
@@ -66,7 +66,7 @@ For the artwork I had made a character in 2019 based on the 'Sword and Sworcery'
 <!-- MAINTAINERS -->
 <div align="center">
   <a href="https://github.com/Cusatelli">
-    <img src="/resources/Maintenance.png" alt="Maintainer" height="200"/>
+    <img src="/resources/Maintenance.png" alt="Maintainer" width="50%"/>
   </a>
 </div>
 
@@ -82,7 +82,7 @@ For the artwork I had made a character in 2019 based on the 'Sword and Sworcery'
 <!-- CONTRIBUTING -->
 <div align="center">
   <a href="#">
-    <img src="/resources/Contribute.png" alt="Contributing" height="200"/>
+    <img src="/resources/Contribute.png" alt="Contributing" width="50%"/>
   </a>
 </div>
 
@@ -121,7 +121,7 @@ Read more: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/
 <!-- LICENSE -->
 <div align="center">
   <a href="mailto:github.cusatelli@gmail.com">
-    <img src="/resources/Document.png" alt="License" height="200"/>
+    <img src="/resources/Document.png" alt="License" width="50%"/>
   </a>
 </div>
 
@@ -136,7 +136,7 @@ No active license
 
 <!-- CONTACT -->
 <div align="center">
-  <img src="/resources/Mail.png" alt="Email" height="200"/>
+  <img src="/resources/Mail.png" alt="Email" width="50%"/>
 </div>
 
 # Contact

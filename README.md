@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <div align="center">
-  <img src="/resources/Logo_Round.png" alt="Logo" width="250" height="250">
+  <img src="/resources/icon.png" alt="Logo" width="300" height="300">
   <h3 align="center">Standard-README</h3>
   <p align="center">
     My personal standard README template.
@@ -41,7 +41,7 @@ This is where my inspiration for this Endless Runner came from.
 
 For the artwork I had made a character in 2019 based on the 'Sword and Sworcery' game, released on the AppStore for iOS & Steam, which I could repurpose. Which is also the inspiration for the rest of the artwork based on that genre of PixelArt, but mostly from 'Sword and Sworcery'.
 
-<p align="right">
+<p align="right"><!-- BACK TO TOP -->
   <a href="#top" align="right">
     <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
   </a>
@@ -57,7 +57,7 @@ For the artwork I had made a character in 2019 based on the 'Sword and Sworcery'
 ```
 ```
 
-<p align="right">
+<p align="right"><!-- BACK TO TOP -->
   <a href="#top" align="right">
     <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
   </a>
@@ -71,9 +71,11 @@ For the artwork I had made a character in 2019 based on the 'Sword and Sworcery'
 </div>
 
 # Maintainers
-[@Cusatelli](https://github.com/Cusatelli)
+<a href="https://github.com/Cusatelli">
+  <img src="/resources/Logo_Round.png" alt="Logo" width="50">
+</a>
 
-<p align="right">
+<p align="right"><!-- BACK TO TOP -->
   <a href="#top" align="right">
     <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
   </a>
@@ -87,9 +89,11 @@ For the artwork I had made a character in 2019 based on the 'Sword and Sworcery'
 </div>
 
 # Contributing
-No active contributors.
+<a href="https://github.com/Cusatelli">
+  <img src="/resources/Logo_Round.png" alt="Logo" width="50">
+</a>
 
-<p align="right">
+<p align="right"><!-- BACK TO TOP -->
   <a href="#top" align="right">
     <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
   </a>
@@ -112,7 +116,7 @@ Format: `<type>(<scope>): <subject>`
 
 Read more: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) v1.0.0
 
-<p align="right">
+<p align="right"><!-- BACK TO TOP -->
   <a href="#top" align="right">
     <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
   </a>
@@ -128,7 +132,7 @@ Read more: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/
 # License
 No active license
 
-<p align="right">
+<p align="right"><!-- BACK TO TOP -->
   <a href="#top" align="right">
     <img src="/resources/Arrow_Up.png" width="50"/>
   </a>
@@ -140,9 +144,11 @@ No active license
 </div>
 
 # Contact
-Email: <a href="mailto:github.cusatelli@gmail.com">github.cusatelli@gmail.com</a>
+<a href="mailto:github.cusatelli@gmail.com">
+  <img src="/resources/Logo_Round.png" alt="Logo" width="50">
+</a>
 
-<p align="right">
+<p align="right"><!-- BACK TO TOP -->
   <a href="#top" align="right">
     <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
   </a>

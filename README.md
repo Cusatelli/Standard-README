@@ -11,25 +11,18 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-# Table of Contents
-
-<a href="#about-the-project">About the Project</a><br/>
-<a href="#install">Install</a><br/>
-<a href="#usage">Usage</a><br/>
-<a href="#maintainers">Maintainers</a><br/>
-<a href="#contributing">Contributing</a><br/>
-<a href="#conventions">Conventions</a><br/>
-<a href="#license">License</a><br/>
-<a href="#contact">Contact</a>
+# 📙 Table of Contents
+[📚 About the Project](-about-the-project)  
+[⌛&nbsp; Install](-install)  
+[💻 Usage](-usage)  
+[⚙ Maintainers](-maintainers)  
+[🤝 Contributing](-contributing)  
+[㊗ Conventions](-conventions)  
+[📝 License](-license)  
+[📬 Contact](-contact)  
 
 <!-- ABOUT THE PROJECT -->
-<div align="center">
-  <a href="#">
-    <img src="/resources/Information.png" alt="Information" width="50%"/>
-  </a>
-</div>
-
-# About the project
+# 📚 About the project
 I'm sure we've all played the famous 'Dinosaur Game' from Google, which opens whenever the Google Chrome browser is offline. The premise is simple, the Dinosaur runs automatically while obstacles spawn from the right side and move towards the left.
 Your job is to jump over these obstacles at an increasing rate of speed and precision.
   
@@ -42,65 +35,47 @@ This is where my inspiration for this Endless Runner came from.
 For the artwork I had made a character in 2019 based on the 'Sword and Sworcery' game, released on the AppStore for iOS & Steam, which I could repurpose. Which is also the inspiration for the rest of the artwork based on that genre of PixelArt, but mostly from 'Sword and Sworcery'.
 
 <p align="right"><!-- BACK TO TOP -->
-  <a href="#top" align="right">
-    <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
-  </a>
+  <a href="#top" align="right">🔝</a>
 </p>
 
 <!-- INSTALL -->
-# Install
+# ⌛&nbsp; Install
 ```
+Installation guide goes here...
 ```
 
 <!-- USAGE -->
-# Usage
+# 💻 Usage
 ```
+How to use the repository goes here...
 ```
 
 <p align="right"><!-- BACK TO TOP -->
-  <a href="#top" align="right">
-    <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
-  </a>
+  <a href="#top" align="right">🔝</a>
 </p>
 
 <!-- MAINTAINERS -->
-<div align="center">
-  <a href="https://github.com/Cusatelli">
-    <img src="/resources/Maintenance.png" alt="Maintainer" width="50%"/>
-  </a>
-</div>
-
-# Maintainers
+# ⚙ Maintainers
 <a href="https://github.com/Cusatelli">
   <img src="/resources/Logo_Round.png" alt="Logo" width="50">
 </a>
 
 <p align="right"><!-- BACK TO TOP -->
-  <a href="#top" align="right">
-    <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
-  </a>
+  <a href="#top" align="right">⬆️</a>
 </p>
 
 <!-- CONTRIBUTING -->
-<div align="center">
-  <a href="#">
-    <img src="/resources/Contribute.png" alt="Contributing" width="50%"/>
-  </a>
-</div>
-
-# Contributing
+# 🤝 Contributing
 <a href="https://github.com/Cusatelli">
   <img src="/resources/Logo_Round.png" alt="Logo" width="50">
 </a>
 
 <p align="right"><!-- BACK TO TOP -->
-  <a href="#top" align="right">
-    <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
-  </a>
+  <a href="#top" align="right">🔝</a>
 </p>
 
 <!-- CONVENTIONS -->
-# Conventions
+# ㊗ Conventions
 
 Format: `<type>(<scope>): <subject>`
 
@@ -117,39 +92,23 @@ Format: `<type>(<scope>): <subject>`
 Read more: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) v1.0.0
 
 <p align="right"><!-- BACK TO TOP -->
-  <a href="#top" align="right">
-    <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
-  </a>
+  <a href="#top" align="right">🔝</a>
 </p>
 
 <!-- LICENSE -->
-<div align="center">
-  <a href="mailto:github.cusatelli@gmail.com">
-    <img src="/resources/Document.png" alt="License" width="50%"/>
-  </a>
-</div>
-
-# License
+# 📝 License
 No active license
 
 <p align="right"><!-- BACK TO TOP -->
-  <a href="#top" align="right">
-    <img src="/resources/Arrow_Up.png" width="50"/>
-  </a>
+  <a href="#top" align="right">🔝</a>
 </p>
 
 <!-- CONTACT -->
-<div align="center">
-  <img src="/resources/Mail.png" alt="Email" width="50%"/>
-</div>
-
-# Contact
+# 📬 Contact
 <a href="mailto:github.cusatelli@gmail.com">
   <img src="/resources/Logo_Round.png" alt="Logo" width="50">
 </a>
 
 <p align="right"><!-- BACK TO TOP -->
-  <a href="#top" align="right">
-    <img src="/resources/Arrow_Up.png" alt="Back to top" width="50"/>
-  </a>
+  <a href="#top" align="right">🔝</a>
 </p>

@@ -11,7 +11,9 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
+
 # 📙 Table of Contents
+
 [📚 About the Project](-about-the-project)  
 [⌛&nbsp; Install](-install)  
 [💻 Usage](-usage)  
@@ -19,13 +21,15 @@
 [🤝 Contributing](-contributing)  
 [㊗ Conventions](-conventions)  
 [📝 License](-license)  
-[📬 Contact](-contact)  
+[📬 Contact](-contact)
 
 <!-- ABOUT THE PROJECT -->
+
 # 📚 About the project
+
 I'm sure we've all played the famous 'Dinosaur Game' from Google, which opens whenever the Google Chrome browser is offline. The premise is simple, the Dinosaur runs automatically while obstacles spawn from the right side and move towards the left.
 Your job is to jump over these obstacles at an increasing rate of speed and precision.
-  
+
 This is where my inspiration for this Endless Runner came from.
 
 <a href="https://einarvandevelde.com">
@@ -39,13 +43,17 @@ For the artwork I had made a character in 2019 based on the 'Sword and Sworcery'
 </p>
 
 <!-- INSTALL -->
+
 # ⌛&nbsp; Install
+
 ```
 Installation guide goes here...
 ```
 
 <!-- USAGE -->
+
 # 💻 Usage
+
 ```
 How to use the repository goes here...
 ```
@@ -55,7 +63,9 @@ How to use the repository goes here...
 </p>
 
 <!-- MAINTAINERS -->
+
 # ⚙ Maintainers
+
 <a href="https://github.com/Cusatelli">
   <img src="/resources/Logo_Round.png" alt="Logo" width="50">
 </a>
@@ -65,7 +75,9 @@ How to use the repository goes here...
 </p>
 
 <!-- CONTRIBUTING -->
+
 # 🤝 Contributing
+
 <a href="https://github.com/Cusatelli">
   <img src="/resources/Logo_Round.png" alt="Logo" width="50">
 </a>
@@ -75,6 +87,7 @@ How to use the repository goes here...
 </p>
 
 <!-- CONVENTIONS -->
+
 # ㊗ Conventions
 
 Format: `<type>(<scope>): <subject>`
@@ -96,7 +109,9 @@ Read more: [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/
 </p>
 
 <!-- LICENSE -->
+
 # 📝 License
+
 No active license
 
 <p align="right"><!-- BACK TO TOP -->
@@ -104,7 +119,9 @@ No active license
 </p>
 
 <!-- CONTACT -->
+
 # 📬 Contact
+
 <a href="mailto:github.cusatelli@gmail.com">
   <img src="/resources/Logo_Round.png" alt="Logo" width="50">
 </a>
